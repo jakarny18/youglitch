@@ -1,0 +1,19 @@
+# CMake build output
+/build/
+/cmake-build-*/
+/CMakeFiles/
+/CMakeCache.txt
+/Testing/
+
+# IDE and OS files
+.vs/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Compiled plugin bundles
+*.vst3/
+*.exe
+*.dll
+*.lib
+*.pdb
